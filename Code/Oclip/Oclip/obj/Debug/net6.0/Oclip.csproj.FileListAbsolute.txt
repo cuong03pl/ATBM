@@ -1,0 +1,14 @@
+D:\ATBM\Code\Oclip\Oclip\bin\Debug\net6.0\Oclip.exe
+D:\ATBM\Code\Oclip\Oclip\bin\Debug\net6.0\Oclip.deps.json
+D:\ATBM\Code\Oclip\Oclip\bin\Debug\net6.0\Oclip.runtimeconfig.json
+D:\ATBM\Code\Oclip\Oclip\bin\Debug\net6.0\Oclip.dll
+D:\ATBM\Code\Oclip\Oclip\bin\Debug\net6.0\Oclip.pdb
+D:\ATBM\Code\Oclip\Oclip\obj\Debug\net6.0\Oclip.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATBM\Code\Oclip\Oclip\obj\Debug\net6.0\Oclip.AssemblyInfoInputs.cache
+D:\ATBM\Code\Oclip\Oclip\obj\Debug\net6.0\Oclip.AssemblyInfo.cs
+D:\ATBM\Code\Oclip\Oclip\obj\Debug\net6.0\Oclip.csproj.CoreCompileInputs.cache
+D:\ATBM\Code\Oclip\Oclip\obj\Debug\net6.0\Oclip.dll
+D:\ATBM\Code\Oclip\Oclip\obj\Debug\net6.0\refint\Oclip.dll
+D:\ATBM\Code\Oclip\Oclip\obj\Debug\net6.0\Oclip.pdb
+D:\ATBM\Code\Oclip\Oclip\obj\Debug\net6.0\Oclip.genruntimeconfig.cache
+D:\ATBM\Code\Oclip\Oclip\obj\Debug\net6.0\ref\Oclip.dll
