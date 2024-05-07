@@ -1,0 +1,14 @@
+D:\ATBM\Code\ElGama\ElGama\bin\Debug\net6.0\ElGama.exe
+D:\ATBM\Code\ElGama\ElGama\bin\Debug\net6.0\ElGama.deps.json
+D:\ATBM\Code\ElGama\ElGama\bin\Debug\net6.0\ElGama.runtimeconfig.json
+D:\ATBM\Code\ElGama\ElGama\bin\Debug\net6.0\ElGama.dll
+D:\ATBM\Code\ElGama\ElGama\bin\Debug\net6.0\ElGama.pdb
+D:\ATBM\Code\ElGama\ElGama\obj\Debug\net6.0\ElGama.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATBM\Code\ElGama\ElGama\obj\Debug\net6.0\ElGama.AssemblyInfoInputs.cache
+D:\ATBM\Code\ElGama\ElGama\obj\Debug\net6.0\ElGama.AssemblyInfo.cs
+D:\ATBM\Code\ElGama\ElGama\obj\Debug\net6.0\ElGama.csproj.CoreCompileInputs.cache
+D:\ATBM\Code\ElGama\ElGama\obj\Debug\net6.0\ElGama.dll
+D:\ATBM\Code\ElGama\ElGama\obj\Debug\net6.0\refint\ElGama.dll
+D:\ATBM\Code\ElGama\ElGama\obj\Debug\net6.0\ElGama.pdb
+D:\ATBM\Code\ElGama\ElGama\obj\Debug\net6.0\ElGama.genruntimeconfig.cache
+D:\ATBM\Code\ElGama\ElGama\obj\Debug\net6.0\ref\ElGama.dll
