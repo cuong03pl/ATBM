@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ATBM\\Code\\abmodn\\abmodn\\abmodn.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Desktop\\ATBM\\Code\\abmodn\\abmodn\\abmodn.csproj",
       "projectName": "abmodn",
-      "projectPath": "D:\\ATBM\\Code\\abmodn\\abmodn\\abmodn.csproj",
+      "projectPath": "C:\\Users\\pc\\OneDrive\\Desktop\\ATBM\\Code\\abmodn\\abmodn\\abmodn.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\ATBM\\Code\\abmodn\\abmodn\\obj\\",
+      "outputPath": "C:\\Users\\pc\\OneDrive\\Desktop\\ATBM\\Code\\abmodn\\abmodn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

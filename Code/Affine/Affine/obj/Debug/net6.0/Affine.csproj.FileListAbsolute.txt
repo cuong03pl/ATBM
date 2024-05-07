@@ -1,0 +1,14 @@
+D:\ATBM\Code\Affine\Affine\bin\Debug\net6.0\Affine.exe
+D:\ATBM\Code\Affine\Affine\bin\Debug\net6.0\Affine.deps.json
+D:\ATBM\Code\Affine\Affine\bin\Debug\net6.0\Affine.runtimeconfig.json
+D:\ATBM\Code\Affine\Affine\bin\Debug\net6.0\Affine.dll
+D:\ATBM\Code\Affine\Affine\bin\Debug\net6.0\Affine.pdb
+D:\ATBM\Code\Affine\Affine\obj\Debug\net6.0\Affine.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATBM\Code\Affine\Affine\obj\Debug\net6.0\Affine.AssemblyInfoInputs.cache
+D:\ATBM\Code\Affine\Affine\obj\Debug\net6.0\Affine.AssemblyInfo.cs
+D:\ATBM\Code\Affine\Affine\obj\Debug\net6.0\Affine.csproj.CoreCompileInputs.cache
+D:\ATBM\Code\Affine\Affine\obj\Debug\net6.0\Affine.dll
+D:\ATBM\Code\Affine\Affine\obj\Debug\net6.0\refint\Affine.dll
+D:\ATBM\Code\Affine\Affine\obj\Debug\net6.0\Affine.pdb
+D:\ATBM\Code\Affine\Affine\obj\Debug\net6.0\Affine.genruntimeconfig.cache
+D:\ATBM\Code\Affine\Affine\obj\Debug\net6.0\ref\Affine.dll

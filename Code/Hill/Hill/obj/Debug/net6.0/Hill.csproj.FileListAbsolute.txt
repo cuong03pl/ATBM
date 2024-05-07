@@ -1,0 +1,14 @@
+D:\ATBM\Code\Hill\Hill\bin\Debug\net6.0\Hill.exe
+D:\ATBM\Code\Hill\Hill\bin\Debug\net6.0\Hill.deps.json
+D:\ATBM\Code\Hill\Hill\bin\Debug\net6.0\Hill.runtimeconfig.json
+D:\ATBM\Code\Hill\Hill\bin\Debug\net6.0\Hill.dll
+D:\ATBM\Code\Hill\Hill\bin\Debug\net6.0\Hill.pdb
+D:\ATBM\Code\Hill\Hill\obj\Debug\net6.0\Hill.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATBM\Code\Hill\Hill\obj\Debug\net6.0\Hill.AssemblyInfoInputs.cache
+D:\ATBM\Code\Hill\Hill\obj\Debug\net6.0\Hill.AssemblyInfo.cs
+D:\ATBM\Code\Hill\Hill\obj\Debug\net6.0\Hill.csproj.CoreCompileInputs.cache
+D:\ATBM\Code\Hill\Hill\obj\Debug\net6.0\Hill.dll
+D:\ATBM\Code\Hill\Hill\obj\Debug\net6.0\refint\Hill.dll
+D:\ATBM\Code\Hill\Hill\obj\Debug\net6.0\Hill.pdb
+D:\ATBM\Code\Hill\Hill\obj\Debug\net6.0\Hill.genruntimeconfig.cache
+D:\ATBM\Code\Hill\Hill\obj\Debug\net6.0\ref\Hill.dll

@@ -12,3 +12,17 @@ D:\ATBM\Code\abmodn\abmodn\obj\Debug\net6.0\refint\abmodn.dll
 D:\ATBM\Code\abmodn\abmodn\obj\Debug\net6.0\abmodn.pdb
 D:\ATBM\Code\abmodn\abmodn\obj\Debug\net6.0\abmodn.genruntimeconfig.cache
 D:\ATBM\Code\abmodn\abmodn\obj\Debug\net6.0\ref\abmodn.dll
+C:\Users\pc\OneDrive\Desktop\ATBM\Code\abmodn\abmodn\bin\Debug\net6.0\abmodn.exe
+C:\Users\pc\OneDrive\Desktop\ATBM\Code\abmodn\abmodn\bin\Debug\net6.0\abmodn.deps.json
+C:\Users\pc\OneDrive\Desktop\ATBM\Code\abmodn\abmodn\bin\Debug\net6.0\abmodn.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\ATBM\Code\abmodn\abmodn\bin\Debug\net6.0\abmodn.dll
+C:\Users\pc\OneDrive\Desktop\ATBM\Code\abmodn\abmodn\bin\Debug\net6.0\abmodn.pdb
+C:\Users\pc\OneDrive\Desktop\ATBM\Code\abmodn\abmodn\obj\Debug\net6.0\abmodn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\ATBM\Code\abmodn\abmodn\obj\Debug\net6.0\abmodn.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\ATBM\Code\abmodn\abmodn\obj\Debug\net6.0\abmodn.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\ATBM\Code\abmodn\abmodn\obj\Debug\net6.0\abmodn.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\ATBM\Code\abmodn\abmodn\obj\Debug\net6.0\abmodn.dll
+C:\Users\pc\OneDrive\Desktop\ATBM\Code\abmodn\abmodn\obj\Debug\net6.0\refint\abmodn.dll
+C:\Users\pc\OneDrive\Desktop\ATBM\Code\abmodn\abmodn\obj\Debug\net6.0\abmodn.pdb
+C:\Users\pc\OneDrive\Desktop\ATBM\Code\abmodn\abmodn\obj\Debug\net6.0\abmodn.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\ATBM\Code\abmodn\abmodn\obj\Debug\net6.0\ref\abmodn.dll
