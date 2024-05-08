@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Affine
 {
@@ -30,8 +30,8 @@ namespace Affine
             string chuoimahoa = "";
             foreach (char item in m)
             {
-                int n = item - 65;
-                chuoimahoa += (char)(((a * n + b) % 26) + 65);
+                int x = item - 65;
+                chuoimahoa += (char)(((a * x + b) % 26) + 65);
             }
             Console.WriteLine("Chuoi sau khi ma hoa: " +  chuoimahoa);
 
@@ -39,8 +39,8 @@ namespace Affine
             // giai ma
             foreach (var item in chuoimahoa)
             {
-                int n = item - 65;
-                Console.WriteLine((Oclip(a, 26) * (n - b)) % 26);
+                int y = item - 65;
+                Console.WriteLine((char)(((Oclip(a, 26) * (y - b)) % 26) + 65));
             }
         }
     }
